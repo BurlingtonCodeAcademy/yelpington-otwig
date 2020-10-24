@@ -1,0 +1,10 @@
+{
+  "id": "bergen-bagels",
+  "name": "Bergen Bagels",
+  "address": "473 Bergen St / Brooklyn, NY 11217",
+  "phone": "718-789-7600",
+  "hours": "MON-FRI 7AM-5PM",
+  "notes": [
+    "Enter Notes"
+  ]
+}

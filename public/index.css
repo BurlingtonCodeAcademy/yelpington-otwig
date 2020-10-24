@@ -1,0 +1,16 @@
+#mapContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+#mapid {
+    height: 400px;
+    width: 600px;
+}
+
+#mapNav {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+

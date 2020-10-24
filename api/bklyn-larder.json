@@ -1,0 +1,11 @@
+{
+    "id": "bklyn-larder",
+    "link": "http://localhost:8000/api/paulas-donuts",
+    "name": "BKLYN Larder",
+    "address": "228 Flatbush Ave / Brooklyn, NY 11217",
+    "phone": "718-783-1250",
+    "hours": "MON - CLOSED / TUES-SUN 10AM-6PM",
+    "notes": [
+        "enter NOTES"
+    ]   
+   }

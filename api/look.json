@@ -1,0 +1,10 @@
+{
+  "id": "look",
+  "name": "Look",
+  "address": "622 Washington Ave / Brooklyn, NY 11238",
+  "phone": "718-622-0026",
+  "hours": "CLOSED MON. TUES-SUN 12PM - 10PM",
+  "notes": [
+    "enter notes"
+  ]
+}
