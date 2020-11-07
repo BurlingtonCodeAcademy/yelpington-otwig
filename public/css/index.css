@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap");
-
+/* general css */
 * {
   font-family: "Quicksand";
   border-radius: 8px;
@@ -31,6 +31,7 @@ h3 {
   color: rgb(151, 51, 14);
 }
 
+/* links css */
 a {
   margin-bottom: 32px;
   margin-right: 5px;
@@ -47,6 +48,7 @@ a:visited {
   color: rgb(97, 187, 243);
 }
 
+/* css for map */
 #mapContainer {
   display: flex;
   flex-direction: row;
@@ -69,6 +71,3 @@ a:visited {
   border: orange solid 2px;
 }
 
-#restPage {
-  font-size: 24pt;
-}

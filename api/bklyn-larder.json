@@ -1,10 +1,12 @@
 {
   "id": "bklyn-larder",
-  "link": "http://localhost:8000/api/paulas-donuts",
   "name": "BKLYN Larder",
+  "link" : "https://www.bklynlarder.com/",
   "address": "228 Flatbush Ave / Brooklyn, NY 11217",
   "phone": "718-783-1250",
   "hours": "MON - CLOSED / TUES-SUN 10AM-6PM",
+  "lat": "40.680520",
+  "long" : "-73.975270",
   "notes": [
     "Our FAVORITE PLACE! The biscuit breakfast sandwich is unparalleled. Sometimes you can see celebrities like Maggie Gyllenhaal there. The pantry items are overpriced and never worth it, but the food is incredible."
   ]

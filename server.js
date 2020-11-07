@@ -3,6 +3,9 @@ const { response } = require('express')
 const express = require('express')
 const fs = require('fs')
 const app = express()
+//set app to listen for port or default to localhost and report back which the app is running on
+const server = app.listen(process.env.PORT || 8000, () => console.log('App is running on port: ', server.address().port))
+
 
 //variables
 const path = require('path')
@@ -28,17 +31,8 @@ app.get('/restaurantapi/:id', (req, res) => {
     res.sendFile(path.resolve(`./api/${id}.json`))
 })
 
-//display the restaurant entry that was called in text
+//display the restaurant entry that was called in HTML
 app.get('/restaurant/:restId', (req, res) => {
     let restId = req.params.restId
-    res.sendFile(path.resolve(`./public/rest.html/`))
+    res.sendFile(path.resolve(`./public/rest.html`))
 })
-
-
-//set app to listen for port or default to localhost and report back which the app is running on
-const server = app.listen(process.env.PORT || 8000, () => console.log('App is running on port: ', server.address().port))
-
-// // helper functions
-// function restFilePath(restId) {
-//     return path.join(restDir, restId + '.json')
-// }

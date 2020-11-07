@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap");
+/* general css */
+* {
+  font-family: "Quicksand";
+  border-radius: 8px;
+}
+
+#restTitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: peachpuff;
+}
+
+#name {
+  font-size: 24pt;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(87, 29, 7);
+  margin-top: 15px;
+}
+
+div {
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* map css */
+#restMapContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#restMap {
+  height: 400px;
+  width: 600px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  border: orange solid 2px;
+}

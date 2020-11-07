@@ -1,9 +1,12 @@
 {
   "id": "ample-hills-creamery",
   "name": "Ample Hills Creamery",
+  "link" : "https://www.amplehills.com/",
   "address": "623 Vanderbilt Ave / Brooklyn, NY 11238",
   "phone": "718-483-8199",
   "hours": "SUN-THURS 1PM-9PM / FRI + SAT 1PM-10PM",
+  "lat": "40.678710",
+  "long" : "-73.968200",
   "notes": [
     "We would go walking here during the summer we met and get sorbet. My favorite was basil with lime, though you could not go wrong with any. There is another location in Red Hook but it is not as delightful."
   ]

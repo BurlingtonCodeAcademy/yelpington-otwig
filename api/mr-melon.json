@@ -1,9 +1,12 @@
 {
   "id": "mr-melon",
   "name": "Mr. Melon",
+  "link": "https://www.yelp.com/biz/mr-melon-new-york",
   "address": "975 Fulton Ave / Brooklyn, NY 11238",
   "phone": "347-725-4709",
   "hours": "OPEN 24 HOURS",
+  "lat": "40.682911",
+  "long" : "-73.964169",
   "notes": [
     "In all honesty, this is a bodega! My favorite in Brooklyn and right off the C stop, they make and sell fresh, FRESH fruit and veggie juice on the super duper cheap."
   ]

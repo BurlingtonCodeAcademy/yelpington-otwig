@@ -1,9 +1,12 @@
 {
   "id": "look",
   "name": "Look",
+  "link": "https://www.plantlovehouse.com/",
   "address": "622 Washington Ave / Brooklyn, NY 11238",
   "phone": "718-622-0026",
   "hours": "CLOSED MON. TUES-SUN 12PM - 10PM",
+  "lat": "40.679900",
+  "long" : "-73.964450",
   "notes": [
     "I have never been to Look BUT this location is the site of Pacific & Co., a beer bar I worked at while I lived in the neighborhood. I have wonderful memories of those days. The back patio is excellent as well!"
   ]

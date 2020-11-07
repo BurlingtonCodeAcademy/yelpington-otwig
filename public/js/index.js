@@ -36,7 +36,7 @@ L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.pn
 	attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
 }).addTo(myMap)
 
-//Map marker assigned to latitude and longitude locations
+//Map marker assigned to latitude678710 and longitude locations
 let amplehills = L.marker([40.678710, -73.968200]).addTo(myMap)
 let bergenbagels = L.marker([40.681020, -73.974790]).addTo(myMap)
 let bklynlarder = L.marker([40.680520, -73.975270]).addTo(myMap)
@@ -45,9 +45,9 @@ let mrmelon = L.marker([40.682911, -73.964169]).addTo(myMap)
 let zaytoons = L.marker([40.678688, -73.968474]).addTo(myMap)
 
 //Map marker alert pop-up when clicked
-amplehills.bindPopup('amplehill')
-bergenbagels.bindPopup('bergenbagels')
-bklynlarder.bindPopup('bklynlarder')
-look.bindPopup('look')
-mrmelon.bindPopup('mrmelon')
-zaytoons.bindPopup('zaytoons')
+amplehills.bindPopup('Ample Hills Creamery - Ice Cream and Sorbet')
+bergenbagels.bindPopup('Bergen Bagels - Authentic New York Bagels')
+bklynlarder.bindPopup('Brooklyn Larder - Cheese & Provisions')
+look.bindPopup('Look - ')
+mrmelon.bindPopup('Mr Melon')
+zaytoons.bindPopup('Zaytoons')
